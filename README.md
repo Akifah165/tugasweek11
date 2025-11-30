@@ -1,16 +1,12 @@
-# mobileprog_week11
+# Tugas mobileprog_week11
 
-A new Flutter project.
+ANDI NUR AKIFAH
+2310120003
+Sistem Informasi
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshot
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c5928788-ddeb-4804-b012-32f82fa73152" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/6539a0d3-5054-4bad-aa9f-0e4dfbfce893" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/1672f335-336d-4ded-ab61-5bfc5445c370" />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
